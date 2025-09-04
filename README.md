@@ -8,20 +8,53 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind, jQuery, AJAX  
+**Frontend:**
 
-**Backend:**  
-PHP (Core + OOP), Node.js, Firebase Functions, REST APIs, GraphQL, Sharp, UUID  
+![React](https://img.shields.io/badge/React-20232a?style=flat\&logo=react\&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat\&logo=css3\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=flat\&logo=tailwind-css\&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769ad?style=flat\&logo=jquery\&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-005571?style=flat\&logoColor=white)
 
-**CMS & Platforms:**  
-WordPress (Plugin + Theme Dev), WooCommerce, Contentful, Chrome Extensions, PWAs  
+**Backend:**
 
-**Databases:**  
-MySQL, Firebase, MSSQL, Oracle  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat\&logo=php\&logoColor=white)
+![Firebase Functions](https://img.shields.io/badge/Firebase_Functions-ffca28?style=flat\&logo=firebase\&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569b?style=flat\&logo=rest\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=flat\&logo=graphql\&logoColor=white)
+![Sharp](https://img.shields.io/badge/Sharp-0c344b?style=flat\&logoColor=white)
+![UUID](https://img.shields.io/badge/UUID-4a154b?style=flat\&logoColor=white)
 
-**DevOps & Hosting:**  
-Vercel, AWS, Cloudways, Kinsta, cPanel, Plesk, GitHub Actions  
+**CMS & Platforms:**
+
+![Contentful](https://img.shields.io/badge/Contentful-2478cc?style=flat\&logo=contentful\&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-052f5f?style=flat\&logo=sanity\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759b?style=flat\&logo=wordpress\&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588a?style=flat\&logo=woocommerce\&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285f4?style=flat\&logo=google-chrome\&logoColor=white)
+![PWA](https://img.shields.io/badge/Progressive_Web_Apps-5a0fc8?style=flat\&logo=pwa\&logoColor=white)
+
+**Databases:**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=flat\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat\&logo=firebase\&logoColor=black)
+![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)
+
+**DevOps & Hosting:**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat\&logo=amazon-aws\&logoColor=ff9900)
+![Cloudways](https://img.shields.io/badge/Cloudways-2C39BD?style=flat\&logo=cloudways\&logoColor=white)
+![Kinsta](https://img.shields.io/badge/Kinsta-5333ed?style=flat\&logo=kinsta\&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-ff6c2c?style=flat\&logo=cpanel\&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-052f5f?style=flat\&logo=plesk\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat\&logo=github-actions\&logoColor=white)
 
 ---
 
