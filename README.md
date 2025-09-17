@@ -123,6 +123,4 @@ CLI-based stress testing tool built in **Node.js** to simulate concurrent web tr
 ## ✨ Let's Build Something Awesome
 Whether it’s a Chrome extension, a financial app, or an open-source tool — I love building things that solve real problems. Feel free to reach out for collaborations, freelancing, or dev talks.
 
-> 💬 “Disability didn’t stop me. I code with one eye, but I see everything clearly — the vision, the problem, and the solution.” 💪
-
 #React #NextJS #PHP #WordPress #OpenSource #ChromeExtensions #ImageCompression #SideProjects #WebPerformance #BuildInPublic
