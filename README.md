@@ -68,7 +68,7 @@ A side project built in a few hours to explore `/tmp` memory-based compression u
 
 ---
 
-### 🧠 [Trello Pro](https://github.com/maheshmthorat/trello-pro) – Trello Chrome Extension  
+### 🧠 [Trello Pro](https://chromewebstore.google.com/detail/trello-pro/dknhbjnfdaejagmfjlenckdaaodchcha) – Trello Chrome Extension  
 Restore the classic Trello UI and add per-list card counters, total stats, and enhancements.  
 📌 No Trello API used — runs fully in-browser  
 ✅ Manifest V3 compliant, lightweight, and open-source  
